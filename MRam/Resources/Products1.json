@@ -1,0 +1,64 @@
+{
+    "products" : [{
+                  "id" : 1,
+                  "title" : "Bridge of Spies",
+                  "type" : "DVD",
+                  "url" : "1.jpg",
+                  "cost" : 1.99
+                  }, {
+                  "id" : 2,
+                  "title" : "The Martian",
+                  "type" : "Blu-Ray",
+                  "url" : "2.jpg",
+                  "cost" : 2.99
+                  }, {
+                  "id" : 3,
+                  "title" : "The Intern",
+                  "type" : "Blu-Ray",
+                  "url" : "3.jpg",
+                  "cost" : 2.99
+                  }, {
+                  "id" : 4,
+                  "title" : "Spectre",
+                  "type" : "Blu-Ray",
+                  "url" : "4.jpg",
+                  "cost" : 1.95
+                  }, {
+                  "id" : 5,
+                  "title" : "The Lion King",
+                  "type" : "Blu-Ray",
+                  "url" : "5.jpg",
+                  "cost" : 2.95
+                  }, {
+                  "id" : 6,
+                  "title" : "Jurassic World",
+                  "type" : "Blu-Ray",
+                  "url" : "6.jpg",
+                  "cost" : 2.95
+                  }, {
+                  "id" : 7,
+                  "title" : "The Wolf of Wall Street",
+                  "type" : "Blu-Ray",
+                  "url" : "7.jpg",
+                  "cost" : 7.95
+                  },{
+                  "id" : 8,
+                  "title" : "Star Wars: The Force Awakens",
+                  "type" : "DVD",
+                  "url" : "8.jpg",
+                  "cost" : 1.95
+                  }, {
+                  "id" : 9,
+                  "title" : "Titanic",
+                  "type" : "Blu-Ray",
+                  "url" : "9.jpg",
+                  "cost" : 3.95
+                  }, {
+                  "id" : 10,
+                  "title" : "Interstellar",
+                  "type" : "Blu-Ray",
+                  "url" : "10.jpg",
+                  "cost" : 11.95
+                  }
+                  ]
+}
